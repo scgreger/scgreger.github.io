@@ -1,0 +1,82 @@
+body {
+	background-color: #7E96A6;
+	font-family: "Italiana", sans-serif;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background-color: #E5EFF4;
+}
+
+.bg {
+  position: fixed; 
+  top: -50%; 
+  left: -50%; 
+  width: 200%; 
+  height: 200%;
+}
+.bg img {
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  right: 0; 
+  bottom: 0; 
+  margin: auto; 
+  min-width: 50%;
+  min-height: 50%;
+}
+
+div.header {
+	top: 0;
+	text-align: center;
+	display: inline-block;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+div.index {
+	background-color: #E5EFF4;
+	text-align: center;
+}
+
+div.career {
+	background-color: #E5EFF4;
+}
+
+img {
+	max-width: 50%;
+	max-height: 50%;
+}
+
+header {
+	background-color: #E5EFF4;
+}
+
+img.paint {
+
+}
+
+.italiana-regular {
+  font-family: "Italiana", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+div.quantum {
+	display: inline-block;
+	padding-block: 25px;
+
+}
+
+/** Colors
+ * White-ish: #E5EFF4
+ * Gray: #8A9BA9
+ * Blue: #405F73
+ * Dark navy: #172F40
+ * Navy black: #082233
+
+
+/** define font for all pages
+ **/
